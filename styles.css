@@ -1,0 +1,24 @@
+
+.background{
+    position: absolute;
+width: 1440px;
+height: 990px;
+left: 105px;
+top: 105px;
+
+background: rgba(255, 255, 255, 0.8);
+backdrop-filter: blur(84px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+background-color:khaki ;
+}
+
+.SideSection{
+    position: absolute;
+width: 142.96px;
+height: 879.6px;
+left: 56px;
+top: 51px;
+background-color: hotpink;
+}
